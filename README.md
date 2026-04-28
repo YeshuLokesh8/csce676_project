@@ -45,7 +45,7 @@ The complete list is available in `requirements.txt`, but core packages include:
 ├── checkpoints/              
 │   ├── checkpoint_1.ipynb    # Early exploratory data analysis (EDA)
 │   └── checkpoint_2.ipynb    # Initial model testing and hyperparameter tuning
-└──data/
+└── data/
     └── Bechdel_IMDB_Merge0524.csv
 ```
 
