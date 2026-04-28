@@ -23,10 +23,10 @@ How do high-lift genre associations within representation outliers—isolated vi
 * **Matrix Encoding:** Cleaned text arrays and deployed a `TransactionEncoder` to convert categorical genre tags into a sparse One-Hot Encoded matrix for the Apriori algorithm. 
 
 ### 🚀 6. How to Reproduce Your Work
-This project was built and executed in **Google Colab**. 
-1. Download or clone this repository and upload the entire folder directly to your Google Drive.
-2. Open Google Colab, mount your Google Drive, and open the main_notebook.ipynb file from your uploaded folder.
-3. Install all necessary dependencies by running the following command in a notebook cell: !pip install -r requirements.txt
+This project was built and executed in **Google Colab** and is designed to be run locally using any IDE that supports `.ipynb` files (e.g., VS Code). 
+1. Download or clone this repository to your local machine.
+2. Install the required packages with `pip install -r requirements.txt`
+3. Open `main_notebook.ipynb`, ensure the codebase matches the repo structure shown in section 8.
 4. Run the notebook cells sequentially from top to bottom.
 
 ### 🌱 7. Key Dependencies
